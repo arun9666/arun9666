@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arun9666
+- 👋 Hello there, I'm Arun Jangiti
 - 👀 I’m interested in ...Data
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ...@itz___arooon
