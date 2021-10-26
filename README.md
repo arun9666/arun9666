@@ -1,4 +1,5 @@
-- 👋 Hello there, I'm Arun Jangiti
+- 👋 Hello there ![cat](https://user-images.githubusercontent.com/88025790/138808596-42590f3c-7eb0-4f60-a490-9adef7830e5f.gif)
+, I'm Arun Jangiti
 - 👀 Mathematics explorer.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ...@itz___arooon
