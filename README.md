@@ -1,5 +1,5 @@
 - 👋 Hello there, I'm Arun Jangiti
-- 👀 I’m interested in ...Data
+- 👀 Mathematics explorer.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ...@itz___arooon
 
