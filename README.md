@@ -1,7 +1,4 @@
 - 👋 Hello there, I'm Arun Jangiti
-- 👀 Mathematics explorer.
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me ...@itz___arooon
 
 <!---
 arun9666/arun9666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
